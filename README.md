@@ -1,7 +1,7 @@
 # Guess-the-word
 Word guessing game whuich allows player to guess the work either letter by letter or the whole word at once.
 
-# Interface
+## Interface
 ** The great guessing game **
 
 Current Guess: ----
@@ -20,7 +20,7 @@ Current Guess: --a
 g= guess, t = tell me, l for a letter, and q to quit
 
 
-# Final Scores
+## Final Scores
 
 Game  Word  Status  Bad Guesses  Missed Letters  Score
 ----  ----  ------  -----------  --------------  -----
