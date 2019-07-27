@@ -12,6 +12,7 @@ l
 Enter a letter:
 
 a
+
 You found 1 letters
 
 Current Guess: --a
