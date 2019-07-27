@@ -5,8 +5,10 @@ Word guessing game.
 ** The great guessing game **
 Current Guess: ----
 g = guess, t = tell me, l for a letter, and q to quit
+
 l
 Enter a letter:
+
 a
 You found 1 letters
 
